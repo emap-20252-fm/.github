@@ -2,14 +2,14 @@
 
 ## 🙋‍♀️ Organização do curso 
 
-https://github.com/emap-20252-fm/syllabus
+- https://github.com/emap-20252-fm/syllabus
+- Fórum https://github.com/orgs/emap-20252-fm/discussions
 
 ## 🌈 Contribution guidelines 
 
 Veja syllabus, apenas alunos matriculados podem contribuir e fazer parte da organização.
 
-# 👩‍💻 Useful resources
+## 👩‍💻 Useful resources
 
 - https://lean-lang.org/
-
 
