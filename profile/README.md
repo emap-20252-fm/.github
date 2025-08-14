@@ -1,5 +1,3 @@
-# Curso 'Provas Formais e Verificação de Programas' EMAp/FGV
-
 ## 🙋‍♀️ Organização do curso 
 
 - https://github.com/emap-20252-fm/syllabus
